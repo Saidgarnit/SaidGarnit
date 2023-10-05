@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Said Garnit</h1>
 <h3 align="center">A passionate Software developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnX6MMgUN6A3rticfvDZ1yBda-LoHzt6KhFUlUNPGe&s">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidgarnit&label=Profile%20views&color=0e75b6&style=flat" alt="saidgarnit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidgarnit" alt="saidgarnit" /></a> </p>
+- 🌱 I’m currently learning **Android Studio**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/Saidgarnit](https://github.com/Saidgarnit)
 
 - 💬 Ask me about **Android ,JAVAFX**
 
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidgarnit&show_icons=true&locale=en" alt="saidgarnit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidgarnit&" alt="saidgarnit" /></p>
-
