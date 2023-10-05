@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidgarnit&show_icons=true&locale=en&layout=compact" alt="saidgarnit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidgarnit&show_icons=true&locale=en" alt="saidgarnit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidgarnit&" alt="saidgarnit" /></p>
